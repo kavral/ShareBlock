@@ -21,5 +21,5 @@ This prototype implements the core smart contract logic for ShareBlock (AIFC SPV
 3.Deploy contract locally:
    npx hardhat run scripts/deploy.js
 Demo & Network:
-    Network: Hardhat Local Development Blockchain
+    Network: Hardhat Local Development Blockchain.
     Test accounts provided by Hardhat framework.
